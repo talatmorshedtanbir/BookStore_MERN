@@ -1,0 +1,4 @@
+{
+    "mongoURI":
+      "mongodb+srv://talattanbir:tanbir17@cluster0.lfn4m.mongodb.net/BookDb?retryWrites=true&w=majority"
+}
